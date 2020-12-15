@@ -1,1 +1,1 @@
-# Indiana-COVID-19-Tracker
+# Indiana COVID-19 Tracker
